@@ -1,1 +1,1 @@
-# A very simple magic trick done in Java
+# A very simple magic trick
